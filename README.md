@@ -1,5 +1,7 @@
 # circle
 
+[![Build Status](https://travis-ci.org/Pratheek-Dev/circles.svg?branch=master)](https://travis-ci.org/Pratheek-Dev/circles)
+
 Author: Pratheek Devaraj
 Date: Dec 18, 2016
 
