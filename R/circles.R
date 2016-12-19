@@ -72,7 +72,4 @@ circumference.circle <- function(obj){
   cat(2*obj$radius*3.14, "\n")
 }
 
-#testing the circle
-c1 <- circle(3)
-area(c1)
-circumference(c1)
+
